@@ -1,0 +1,617 @@
+{
+ "version": 1,
+ "level": "east_wing",
+ "encoding": "rgbm-sqrt",
+ "range": 64,
+ "content": "indirect",
+ "pages": [
+  {
+   "size": 2048,
+   "layers": {
+    "static": "east_wing_p0_static.webp",
+    "bedroom_lamp": "east_wing_p0_bedroom_lamp.webp",
+    "hall_sconce_mid": "east_wing_p0_hall_sconce_mid.webp",
+    "study_desk_lamp": "east_wing_p0_study_desk_lamp.webp",
+    "study_fire": "east_wing_p0_study_fire.webp"
+   }
+  },
+  {
+   "size": 2048,
+   "layers": {
+    "static": "east_wing_p1_static.webp",
+    "bedroom_lamp": "east_wing_p1_bedroom_lamp.webp",
+    "hall_sconce_mid": "east_wing_p1_hall_sconce_mid.webp",
+    "study_desk_lamp": "east_wing_p1_study_desk_lamp.webp",
+    "study_fire": "east_wing_p1_study_fire.webp"
+   }
+  }
+ ],
+ "instances": {
+  "SM_Shell_Bathroom": {
+   "page": 0,
+   "scaleOffset": [
+    0.31689453125,
+    0.31689453125,
+    0,
+    0.20654296875
+   ]
+  },
+  "SM_Shell_Bedroom": {
+   "page": 0,
+   "scaleOffset": [
+    0.37890625,
+    0.37890625,
+    0.4765625,
+    0.17626953125
+   ]
+  },
+  "SM_Shell_Hallway": {
+   "page": 0,
+   "scaleOffset": [
+    0.474609375,
+    0.474609375,
+    0,
+    0.525390625
+   ]
+  },
+  "SM_Shell_Saferoom": {
+   "page": 1,
+   "scaleOffset": [
+    0.2998046875,
+    0.2998046875,
+    0,
+    0.7001953125
+   ]
+  },
+  "SM_Shell_Study": {
+   "page": 0,
+   "scaleOffset": [
+    0.44287109375,
+    0.44287109375,
+    0.4765625,
+    0.55712890625
+   ]
+  },
+  "SM_Bed_0": {
+   "page": 1,
+   "scaleOffset": [
+    0.2373046875,
+    0.2373046875,
+    0.3017578125,
+    0.7626953125
+   ]
+  },
+  "SM_Nightstand_1": {
+   "page": 1,
+   "scaleOffset": [
+    0.05078125,
+    0.05078125,
+    0.49462890625,
+    0.4150390625
+   ]
+  },
+  "SM_Wardrobe_3": {
+   "page": 1,
+   "scaleOffset": [
+    0.12744140625,
+    0.12744140625,
+    0.56396484375,
+    0.58349609375
+   ]
+  },
+  "SM_WritingDesk_4": {
+   "page": 1,
+   "scaleOffset": [
+    0.056640625,
+    0.056640625,
+    0.9248046875,
+    0.45654296875
+   ]
+  },
+  "SM_ChairWood_5": {
+   "page": 0,
+   "scaleOffset": [
+    0.04296875,
+    0.04296875,
+    0.955078125,
+    0.95703125
+   ]
+  },
+  "SM_RugPersian_6": {
+   "page": 1,
+   "scaleOffset": [
+    0.11376953125,
+    0.11376953125,
+    0.4833984375,
+    0.4677734375
+   ]
+  },
+  "SM_PaintingPortrait_7": {
+   "page": 0,
+   "scaleOffset": [
+    0.04248046875,
+    0.04248046875,
+    0.955078125,
+    0.91259765625
+   ]
+  },
+  "SM_Curtains_8": {
+   "page": 0,
+   "scaleOffset": [
+    0.1513671875,
+    0.1513671875,
+    0.8017578125,
+    0.02294921875
+   ]
+  },
+  "SM_RunnerRug_9": {
+   "page": 0,
+   "scaleOffset": [
+    0.1689453125,
+    0.1689453125,
+    0.1708984375,
+    0.03564453125
+   ]
+  },
+  "SM_RunnerRug_10": {
+   "page": 0,
+   "scaleOffset": [
+    0.1689453125,
+    0.1689453125,
+    0,
+    0.03564453125
+   ]
+  },
+  "SM_GrandfatherClock_14": {
+   "page": 1,
+   "scaleOffset": [
+    0.0849609375,
+    0.0849609375,
+    0.59912109375,
+    0.49658203125
+   ]
+  },
+  "SM_SideTable_15": {
+   "page": 1,
+   "scaleOffset": [
+    0.05517578125,
+    0.05517578125,
+    0.83837890625,
+    0.4111328125
+   ]
+  },
+  "SM_PaintingLandscape_17": {
+   "page": 1,
+   "scaleOffset": [
+    0.0546875,
+    0.0546875,
+    0.3271484375,
+    0.4111328125
+   ]
+  },
+  "SM_PaintingLandscape_18": {
+   "page": 1,
+   "scaleOffset": [
+    0.0546875,
+    0.0546875,
+    0.3837890625,
+    0.4111328125
+   ]
+  },
+  "SM_Curtains_19": {
+   "page": 0,
+   "scaleOffset": [
+    0.1513671875,
+    0.1513671875,
+    0.341796875,
+    0.02294921875
+   ]
+  },
+  "SM_BathtubClawfoot_20": {
+   "page": 1,
+   "scaleOffset": [
+    0.06689453125,
+    0.06689453125,
+    0.9248046875,
+    0.51513671875
+   ]
+  },
+  "SM_ToiletOld_21": {
+   "page": 1,
+   "scaleOffset": [
+    0.048828125,
+    0.048828125,
+    0.54736328125,
+    0.4169921875
+   ]
+  },
+  "SM_SinkPedestal_22": {
+   "page": 1,
+   "scaleOffset": [
+    0.044921875,
+    0.044921875,
+    0.1318359375,
+    0.4150390625
+   ]
+  },
+  "SM_MirrorBathroom_23": {
+   "page": 0,
+   "scaleOffset": [
+    0.0361328125,
+    0.0361328125,
+    0.955078125,
+    0.83154296875
+   ]
+  },
+  "SM_TableSmall_24": {
+   "page": 1,
+   "scaleOffset": [
+    0.05224609375,
+    0.05224609375,
+    0.4404296875,
+    0.41357421875
+   ]
+  },
+  "SM_Cot_26": {
+   "page": 1,
+   "scaleOffset": [
+    0.130859375,
+    0.130859375,
+    0.3017578125,
+    0.6298828125
+   ]
+  },
+  "SM_StorageChest_27": {
+   "page": 1,
+   "scaleOffset": [
+    0.080078125,
+    0.080078125,
+    0,
+    0.396484375
+   ]
+  },
+  "SM_Bookshelf_28": {
+   "page": 1,
+   "scaleOffset": [
+    0.142578125,
+    0.142578125,
+    0.541015625,
+    0.857421875
+   ]
+  },
+  "SM_Bookshelf_29": {
+   "page": 1,
+   "scaleOffset": [
+    0.142578125,
+    0.142578125,
+    0.685546875,
+    0.857421875
+   ]
+  },
+  "SM_Bookshelf_30": {
+   "page": 1,
+   "scaleOffset": [
+    0.142578125,
+    0.142578125,
+    0.830078125,
+    0.857421875
+   ]
+  },
+  "SM_Bookshelf_31": {
+   "page": 1,
+   "scaleOffset": [
+    0.142578125,
+    0.142578125,
+    0.541015625,
+    0.712890625
+   ]
+  },
+  "SM_Bookshelf_32": {
+   "page": 1,
+   "scaleOffset": [
+    0.142578125,
+    0.142578125,
+    0.685546875,
+    0.712890625
+   ]
+  },
+  "SM_Bookshelf_33": {
+   "page": 1,
+   "scaleOffset": [
+    0.142578125,
+    0.142578125,
+    0.830078125,
+    0.712890625
+   ]
+  },
+  "SM_DeskLarge_35": {
+   "page": 1,
+   "scaleOffset": [
+    0.125,
+    0.125,
+    0,
+    0.5732421875
+   ]
+  },
+  "SM_ArmchairLeather_37": {
+   "page": 1,
+   "scaleOffset": [
+    0.07470703125,
+    0.07470703125,
+    0.68505859375,
+    0.3916015625
+   ]
+  },
+  "SM_ArmchairLeather_38": {
+   "page": 1,
+   "scaleOffset": [
+    0.07470703125,
+    0.07470703125,
+    0.76171875,
+    0.3916015625
+   ]
+  },
+  "SM_Globe_39": {
+   "page": 1,
+   "scaleOffset": [
+    0.0478515625,
+    0.0478515625,
+    0.08203125,
+    0.412109375
+   ]
+  },
+  "SM_RugPersian_40": {
+   "page": 1,
+   "scaleOffset": [
+    0.11376953125,
+    0.11376953125,
+    0.36767578125,
+    0.4677734375
+   ]
+  },
+  "SM_BooksPile_42": {
+   "page": 0,
+   "scaleOffset": [
+    0.03515625,
+    0.03515625,
+    0.955078125,
+    0.79443359375
+   ]
+  },
+  "SM_Curtains_43": {
+   "page": 0,
+   "scaleOffset": [
+    0.1513671875,
+    0.1513671875,
+    0.4951171875,
+    0.02294921875
+   ]
+  },
+  "SM_Curtains_44": {
+   "page": 0,
+   "scaleOffset": [
+    0.1513671875,
+    0.1513671875,
+    0.6484375,
+    0.02294921875
+   ]
+  },
+  "SM_Corpse_45": {
+   "page": 1,
+   "scaleOffset": [
+    0.0927734375,
+    0.0927734375,
+    0,
+    0.478515625
+   ]
+  },
+  "SM_PapersScattered_56": {
+   "page": 0,
+   "scaleOffset": [
+    0.03466796875,
+    0.03466796875,
+    0.955078125,
+    0.7578125
+   ]
+  },
+  "SM_PapersScattered_57": {
+   "page": 0,
+   "scaleOffset": [
+    0.03466796875,
+    0.03466796875,
+    0.955078125,
+    0.72119140625
+   ]
+  },
+  "SM_ChairBroken_62": {
+   "page": 0,
+   "scaleOffset": [
+    0.041015625,
+    0.041015625,
+    0.955078125,
+    0.86962890625
+   ]
+  },
+  "D1_frame": {
+   "page": 1,
+   "scaleOffset": [
+    0.11376953125,
+    0.11376953125,
+    0.251953125,
+    0.51416015625
+   ]
+  },
+  "D2_frame": {
+   "page": 1,
+   "scaleOffset": [
+    0.083984375,
+    0.083984375,
+    0.59912109375,
+    0.41064453125
+   ]
+  },
+  "D3_frame": {
+   "page": 1,
+   "scaleOffset": [
+    0.11376953125,
+    0.11376953125,
+    0.693359375,
+    0.46826171875
+   ]
+  },
+  "D5_frame": {
+   "page": 1,
+   "scaleOffset": [
+    0.11376953125,
+    0.11376953125,
+    0.80908203125,
+    0.46826171875
+   ]
+  },
+  "D4_frame": {
+   "page": 1,
+   "scaleOffset": [
+    0.12744140625,
+    0.12744140625,
+    0.4345703125,
+    0.58349609375
+   ]
+  },
+  "W1_window": {
+   "page": 1,
+   "scaleOffset": [
+    0.123046875,
+    0.123046875,
+    0.126953125,
+    0.5751953125
+   ]
+  },
+  "W2_window": {
+   "page": 1,
+   "scaleOffset": [
+    0.126953125,
+    0.126953125,
+    0.693359375,
+    0.583984375
+   ]
+  },
+  "W5_window": {
+   "page": 1,
+   "scaleOffset": [
+    0.126953125,
+    0.126953125,
+    0.822265625,
+    0.583984375
+   ]
+  },
+  "W3_window": {
+   "page": 1,
+   "scaleOffset": [
+    0.111328125,
+    0.111328125,
+    0.126953125,
+    0.4619140625
+   ]
+  },
+  "W4_window": {
+   "page": 1,
+   "scaleOffset": [
+    0.0849609375,
+    0.0849609375,
+    0.240234375,
+    0.42724609375
+   ]
+  }
+ },
+ "probes": {
+  "file": "east_wing_probes.bin",
+  "origin": [
+   0.5,
+   -0.5,
+   0.3
+  ],
+  "spacing": [
+   1,
+   1,
+   1.05
+  ],
+  "counts": [
+   16,
+   12,
+   3
+  ],
+  "layers": [
+   "static",
+   "bedroom_lamp",
+   "hall_sconce_mid",
+   "study_desk_lamp",
+   "study_fire"
+  ]
+ },
+ "bake": {
+  "samples": 128,
+  "probeSamples": 1024,
+  "quality": "final",
+  "seconds": 397.8,
+  "totalSeconds": 493.4,
+  "calibration": "irradiance = 3.1416 x Cycles diffuse pass, 1 W per lumen; cal_point_2m: 19.875 lux measured vs 19.894 analytic (-0.1%); cal_point_5m_r7: 1.741 lux measured vs 1.742 analytic (-0.0%); cal_moon: 0.250 lux measured vs 0.250 analytic (+0.0%); translucent texels: 19.875 lux (-0.1%)",
+  "texelsPerMeter": {
+   "SM_Shell_Bathroom": 40,
+   "SM_Shell_Bedroom": 40,
+   "SM_Shell_Hallway": 40,
+   "SM_Shell_Saferoom": 40,
+   "SM_Shell_Study": 40,
+   "SM_Bed_0": 40,
+   "SM_Nightstand_1": 40,
+   "SM_Wardrobe_3": 40,
+   "SM_WritingDesk_4": 40,
+   "SM_ChairWood_5": 40,
+   "SM_RugPersian_6": 40,
+   "SM_PaintingPortrait_7": 40,
+   "SM_Curtains_8": 40,
+   "SM_RunnerRug_9": 40,
+   "SM_RunnerRug_10": 40,
+   "SM_GrandfatherClock_14": 40,
+   "SM_SideTable_15": 40,
+   "SM_PaintingLandscape_17": 40,
+   "SM_PaintingLandscape_18": 40,
+   "SM_Curtains_19": 40,
+   "SM_BathtubClawfoot_20": 40,
+   "SM_ToiletOld_21": 40,
+   "SM_SinkPedestal_22": 40,
+   "SM_MirrorBathroom_23": 40,
+   "SM_TableSmall_24": 40,
+   "SM_Cot_26": 40,
+   "SM_StorageChest_27": 40,
+   "SM_Bookshelf_28": 40,
+   "SM_Bookshelf_29": 40,
+   "SM_Bookshelf_30": 40,
+   "SM_Bookshelf_31": 40,
+   "SM_Bookshelf_32": 40,
+   "SM_Bookshelf_33": 40,
+   "SM_DeskLarge_35": 40,
+   "SM_ArmchairLeather_37": 40,
+   "SM_ArmchairLeather_38": 40,
+   "SM_Globe_39": 40,
+   "SM_RugPersian_40": 40,
+   "SM_BooksPile_42": 40,
+   "SM_Curtains_43": 40,
+   "SM_Curtains_44": 40,
+   "SM_Corpse_45": 40,
+   "SM_PapersScattered_56": 40,
+   "SM_PapersScattered_57": 40,
+   "SM_ChairBroken_62": 40,
+   "D1_frame": 40,
+   "D2_frame": 40,
+   "D3_frame": 40,
+   "D5_frame": 40,
+   "D4_frame": 40,
+   "W1_window": 40,
+   "W2_window": 40,
+   "W5_window": 40,
+   "W3_window": 40,
+   "W4_window": 40
+  },
+  "date": "2026-10-29 19:15"
+ }
+}

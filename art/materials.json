@@ -1,0 +1,1953 @@
+{
+ "M_Backdrop_Emissive": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0.6,
+  "opacity": 1,
+  "uvScale": [
+   0.07142857142857142,
+   0.1111111111111111
+  ],
+  "baseColor": "T_Backdrop_Emissive_BC.webp",
+  "normal": "T_Backdrop_Emissive_N.webp",
+  "orm": "T_Backdrop_Emissive_ORM.webp",
+  "emissive": "T_Backdrop_Emissive_E.webp"
+ },
+ "M_BathtubInner": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_BathtubInner_BC.webp",
+  "normal": "T_BathtubInner_N.webp",
+  "orm": "T_BathtubInner_ORM.webp"
+ },
+ "M_BooksPileBooks": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_BooksPileBooks_BC.webp",
+  "normal": "T_BooksPileBooks_N.webp",
+  "orm": "T_BooksPileBooks_ORM.webp"
+ },
+ "M_BookshelfBooks": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_BookshelfBooks_BC.webp",
+  "normal": "T_BookshelfBooks_N.webp",
+  "orm": "T_BookshelfBooks_ORM.webp"
+ },
+ "M_Brass": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   2,
+   2
+  ],
+  "baseColor": "T_Brass_BC.webp",
+  "normal": "T_Brass_N.webp",
+  "orm": "T_Brass_ORM.webp"
+ },
+ "M_Bulb_Emissive": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 6,
+  "opacity": 1,
+  "uvScale": [
+   5,
+   5
+  ],
+  "baseColor": "T_Bulb_Emissive_BC.webp",
+  "normal": "T_Bulb_Emissive_N.webp",
+  "orm": "T_Bulb_Emissive_ORM.webp",
+  "emissive": "T_Bulb_Emissive_E.webp"
+ },
+ "M_Cobweb": {
+  "group": "environment",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Cobweb_BC.webp",
+  "normal": "T_Cobweb_N.webp",
+  "orm": "T_Cobweb_ORM.webp"
+ },
+ "M_Embers_Emissive": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 4,
+  "opacity": 1,
+  "uvScale": [
+   2,
+   2
+  ],
+  "baseColor": "T_Embers_Emissive_BC.webp",
+  "normal": "T_Embers_Emissive_N.webp",
+  "orm": "T_Embers_Emissive_ORM.webp",
+  "emissive": "T_Embers_Emissive_E.webp"
+ },
+ "M_FabricLinen": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   0.9407337723424272,
+   0.9407337723424272
+  ],
+  "baseColor": "T_FabricLinen_BC.webp",
+  "normal": "T_FabricLinen_N.webp",
+  "orm": "T_FabricLinen_ORM.webp"
+ },
+ "M_FabricWool": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   0.9259259259259258,
+   0.9259259259259258
+  ],
+  "baseColor": "T_FabricWool_BC.webp",
+  "normal": "T_FabricWool_N.webp",
+  "orm": "T_FabricWool_ORM.webp"
+ },
+ "M_FireboxInner": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_FireboxInner_BC.webp",
+  "normal": "T_FireboxInner_N.webp",
+  "orm": "T_FireboxInner_ORM.webp"
+ },
+ "M_Flame_Emissive": {
+  "group": "environment",
+  "blend": "translucent",
+  "twoSided": true,
+  "emissiveStrength": 8,
+  "opacity": 0.9,
+  "uvScale": [
+   5,
+   5
+  ],
+  "baseColor": "T_Flame_Emissive_BC.webp",
+  "normal": "T_Flame_Emissive_N.webp",
+  "orm": "T_Flame_Emissive_ORM.webp",
+  "emissive": "T_Flame_Emissive_E.webp"
+ },
+ "M_Glass": {
+  "group": "environment",
+  "blend": "translucent",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 0.3,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Glass_BC.webp",
+  "normal": "T_Glass_N.webp",
+  "orm": "T_Glass_ORM.webp"
+ },
+ "M_GlassGreen": {
+  "group": "environment",
+  "blend": "translucent",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 0.75,
+  "uvScale": [
+   2,
+   2
+  ],
+  "baseColor": "T_GlassGreen_BC.webp",
+  "normal": "T_GlassGreen_N.webp",
+  "orm": "T_GlassGreen_ORM.webp"
+ },
+ "M_GlobeMap": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_GlobeMap_BC.webp",
+  "normal": "T_GlobeMap_N.webp",
+  "orm": "T_GlobeMap_ORM.webp"
+ },
+ "M_IronCast": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_IronCast_BC.webp",
+  "normal": "T_IronCast_N.webp",
+  "orm": "T_IronCast_ORM.webp"
+ },
+ "M_Leather": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1.25,
+   1.25
+  ],
+  "baseColor": "T_Leather_BC.webp",
+  "normal": "T_Leather_N.webp",
+  "orm": "T_Leather_ORM.webp"
+ },
+ "M_Marble": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Marble_BC.webp",
+  "normal": "T_Marble_N.webp",
+  "orm": "T_Marble_ORM.webp"
+ },
+ "M_Mirror": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Mirror_BC.webp",
+  "normal": "T_Mirror_N.webp",
+  "orm": "T_Mirror_ORM.webp"
+ },
+ "M_PaintingLandscape": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_PaintingLandscape_BC.webp",
+  "normal": "T_PaintingLandscape_N.webp",
+  "orm": "T_PaintingLandscape_ORM.webp"
+ },
+ "M_PaintingPortrait": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_PaintingPortrait_BC.webp",
+  "normal": "T_PaintingPortrait_N.webp",
+  "orm": "T_PaintingPortrait_ORM.webp"
+ },
+ "M_Paper": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   2,
+   2
+  ],
+  "baseColor": "T_Paper_BC.webp",
+  "normal": "T_Paper_N.webp",
+  "orm": "T_Paper_ORM.webp"
+ },
+ "M_PlasterCracked": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   0.5,
+   0.5
+  ],
+  "baseColor": "T_PlasterCracked_BC.webp",
+  "normal": "T_PlasterCracked_N.webp",
+  "orm": "T_PlasterCracked_ORM.webp"
+ },
+ "M_PlasterPainted": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   0.5,
+   0.5
+  ],
+  "baseColor": "T_PlasterPainted_BC.webp",
+  "normal": "T_PlasterPainted_N.webp",
+  "orm": "T_PlasterPainted_ORM.webp"
+ },
+ "M_PlasterStained": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   0.5,
+   0.5
+  ],
+  "baseColor": "T_PlasterStained_BC.webp",
+  "normal": "T_PlasterStained_N.webp",
+  "orm": "T_PlasterStained_ORM.webp"
+ },
+ "M_PlasterWarm": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   0.5,
+   0.5
+  ],
+  "baseColor": "T_PlasterWarm_BC.webp",
+  "normal": "T_PlasterWarm_N.webp",
+  "orm": "T_PlasterWarm_ORM.webp"
+ },
+ "M_Porcelain": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Porcelain_BC.webp",
+  "normal": "T_Porcelain_N.webp",
+  "orm": "T_Porcelain_ORM.webp"
+ },
+ "M_RugPersian": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_RugPersian_BC.webp",
+  "normal": "T_RugPersian_N.webp",
+  "orm": "T_RugPersian_ORM.webp"
+ },
+ "M_RunnerRug": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_RunnerRug_BC.webp",
+  "normal": "T_RunnerRug_N.webp",
+  "orm": "T_RunnerRug_ORM.webp"
+ },
+ "M_TileChecker": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   0.5555555555555556,
+   0.5555555555555556
+  ],
+  "baseColor": "T_TileChecker_BC.webp",
+  "normal": "T_TileChecker_N.webp",
+  "orm": "T_TileChecker_ORM.webp"
+ },
+ "M_TileWhite": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   0.7874015748031495,
+   0.7874015748031495
+  ],
+  "baseColor": "T_TileWhite_BC.webp",
+  "normal": "T_TileWhite_N.webp",
+  "orm": "T_TileWhite_ORM.webp"
+ },
+ "M_Velvet": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   0.8802816901408451,
+   0.8802816901408451
+  ],
+  "baseColor": "T_Velvet_BC.webp",
+  "normal": "T_Velvet_N.webp",
+  "orm": "T_Velvet_ORM.webp"
+ },
+ "M_WallpaperDamask": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   0.4,
+   0.4
+  ],
+  "baseColor": "T_WallpaperDamask_BC.webp",
+  "normal": "T_WallpaperDamask_N.webp",
+  "orm": "T_WallpaperDamask_ORM.webp"
+ },
+ "M_WallpaperGreen": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   0.4,
+   0.4
+  ],
+  "baseColor": "T_WallpaperGreen_BC.webp",
+  "normal": "T_WallpaperGreen_N.webp",
+  "orm": "T_WallpaperGreen_ORM.webp"
+ },
+ "M_WallpaperStripe": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   0.4,
+   0.4
+  ],
+  "baseColor": "T_WallpaperStripe_BC.webp",
+  "normal": "T_WallpaperStripe_N.webp",
+  "orm": "T_WallpaperStripe_ORM.webp"
+ },
+ "M_WindowGlass": {
+  "group": "environment",
+  "blend": "translucent",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 0.45,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_WindowGlass_BC.webp",
+  "normal": "T_WindowGlass_N.webp",
+  "orm": "T_WindowGlass_ORM.webp"
+ },
+ "M_WoodOak": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   0.9090909090909091,
+   0.9090909090909091
+  ],
+  "baseColor": "T_WoodOak_BC.webp",
+  "normal": "T_WoodOak_N.webp",
+  "orm": "T_WoodOak_ORM.webp"
+ },
+ "M_WoodPainted": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   0.6666666666666666,
+   0.6666666666666666
+  ],
+  "baseColor": "T_WoodPainted_BC.webp",
+  "normal": "T_WoodPainted_N.webp",
+  "orm": "T_WoodPainted_ORM.webp"
+ },
+ "M_WoodPanel": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_WoodPanel_BC.webp",
+  "normal": "T_WoodPanel_N.webp",
+  "orm": "T_WoodPanel_ORM.webp"
+ },
+ "M_WoodPanelDark": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   0.5,
+   0.5
+  ],
+  "baseColor": "T_WoodPanelDark_BC.webp",
+  "normal": "T_WoodPanelDark_N.webp",
+  "orm": "T_WoodPanelDark_ORM.webp"
+ },
+ "M_WoodParquet": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   0.4166666666666667,
+   0.4166666666666667
+  ],
+  "baseColor": "T_WoodParquet_BC.webp",
+  "normal": "T_WoodParquet_N.webp",
+  "orm": "T_WoodParquet_ORM.webp"
+ },
+ "M_WoodPlanks": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   0.5,
+   0.5
+  ],
+  "baseColor": "T_WoodPlanks_BC.webp",
+  "normal": "T_WoodPlanks_N.webp",
+  "orm": "T_WoodPlanks_ORM.webp"
+ },
+ "M_WoodPlanksDark": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   0.5,
+   0.5
+  ],
+  "baseColor": "T_WoodPlanksDark_BC.webp",
+  "normal": "T_WoodPlanksDark_N.webp",
+  "orm": "T_WoodPlanksDark_ORM.webp"
+ },
+ "M_WoodWalnut": {
+  "group": "environment",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   0.7142857142857143,
+   0.7142857142857143
+  ],
+  "baseColor": "T_WoodWalnut_BC.webp",
+  "normal": "T_WoodWalnut_N.webp",
+  "orm": "T_WoodWalnut_ORM.webp"
+ },
+ "M_Corpse_Arms": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Corpse_Arms_BC.webp",
+  "normal": "T_Corpse_Arms_N.webp",
+  "orm": "T_Corpse_Arms_ORM.webp",
+  "tint": [
+   0.52,
+   0.52,
+   0.48
+  ]
+ },
+ "M_Corpse_Body": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Corpse_Body_BC.webp",
+  "normal": "T_Corpse_Body_N.webp",
+  "orm": "T_Corpse_Body_ORM.webp",
+  "tint": [
+   0.52,
+   0.52,
+   0.48
+  ]
+ },
+ "M_Corpse_EyesTeeth": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Corpse_EyesTeeth_BC.webp",
+  "normal": "T_Corpse_EyesTeeth_N.webp",
+  "orm": "T_Corpse_EyesTeeth_ORM.webp"
+ },
+ "M_Corpse_Hair": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Corpse_Hair_BC.webp",
+  "normal": "T_Corpse_Hair_N.webp",
+  "orm": "T_Corpse_Hair_ORM.webp"
+ },
+ "M_Corpse_Head": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Corpse_Head_BC.webp",
+  "normal": "T_Corpse_Head_N.webp",
+  "orm": "T_Corpse_Head_ORM.webp",
+  "tint": [
+   0.52,
+   0.52,
+   0.48
+  ]
+ },
+ "M_Corpse_Shirt": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Corpse_Shirt_BC.webp",
+  "normal": "T_Corpse_Shirt_N.webp",
+  "orm": "T_Corpse_Shirt_ORM.webp",
+  "tint": [
+   0.4,
+   0.4,
+   0.38
+  ]
+ },
+ "M_Corpse_Shoes": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Corpse_Shoes_BC.webp",
+  "normal": "T_Corpse_Shoes_N.webp",
+  "orm": "T_Corpse_Shoes_ORM.webp"
+ },
+ "M_Corpse_Trousers": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Corpse_Trousers_BC.webp",
+  "normal": "T_Corpse_Trousers_N.webp",
+  "orm": "T_Corpse_Trousers_ORM.webp",
+  "tint": [
+   0.28,
+   0.27,
+   0.25
+  ]
+ },
+ "M_Corpse_Waistcoat": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Corpse_Waistcoat_BC.webp",
+  "normal": "T_Corpse_Waistcoat_N.webp",
+  "orm": "T_Corpse_Waistcoat_ORM.webp",
+  "tint": [
+   0.24,
+   0.23,
+   0.22
+  ]
+ },
+ "M_ZombieA_Arms": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieA_Arms_BC.webp",
+  "normal": "T_ZombieA_Arms_N.webp",
+  "orm": "T_ZombieA_Arms_ORM.webp",
+  "tint": [
+   0.56,
+   0.58,
+   0.5
+  ]
+ },
+ "M_ZombieA_Body": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieA_Body_BC.webp",
+  "normal": "T_ZombieA_Body_N.webp",
+  "orm": "T_ZombieA_Body_ORM.webp",
+  "tint": [
+   0.56,
+   0.58,
+   0.5
+  ]
+ },
+ "M_ZombieA_EyesTeeth": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieA_EyesTeeth_BC.webp",
+  "normal": "T_ZombieA_EyesTeeth_N.webp",
+  "orm": "T_ZombieA_EyesTeeth_ORM.webp"
+ },
+ "M_ZombieA_Hair": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieA_Hair_BC.webp",
+  "normal": "T_ZombieA_Hair_N.webp",
+  "orm": "T_ZombieA_Hair_ORM.webp"
+ },
+ "M_ZombieA_Head": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieA_Head_BC.webp",
+  "normal": "T_ZombieA_Head_N.webp",
+  "orm": "T_ZombieA_Head_ORM.webp",
+  "tint": [
+   0.56,
+   0.58,
+   0.5
+  ]
+ },
+ "M_ZombieA_Shirt": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieA_Shirt_BC.webp",
+  "normal": "T_ZombieA_Shirt_N.webp",
+  "orm": "T_ZombieA_Shirt_ORM.webp",
+  "tint": [
+   0.4,
+   0.4,
+   0.38
+  ]
+ },
+ "M_ZombieA_Shoes": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieA_Shoes_BC.webp",
+  "normal": "T_ZombieA_Shoes_N.webp",
+  "orm": "T_ZombieA_Shoes_ORM.webp"
+ },
+ "M_ZombieA_Trousers": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieA_Trousers_BC.webp",
+  "normal": "T_ZombieA_Trousers_N.webp",
+  "orm": "T_ZombieA_Trousers_ORM.webp",
+  "tint": [
+   0.28,
+   0.27,
+   0.25
+  ]
+ },
+ "M_ZombieA_Waistcoat": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieA_Waistcoat_BC.webp",
+  "normal": "T_ZombieA_Waistcoat_N.webp",
+  "orm": "T_ZombieA_Waistcoat_ORM.webp",
+  "tint": [
+   0.24,
+   0.23,
+   0.22
+  ]
+ },
+ "M_ZombieB_Apron": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieB_Apron_BC.webp",
+  "normal": "T_ZombieB_Apron_N.webp",
+  "orm": "T_ZombieB_Apron_ORM.webp",
+  "tint": [
+   0.62,
+   0.58,
+   0.5
+  ]
+ },
+ "M_ZombieB_Arms": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieB_Arms_BC.webp",
+  "normal": "T_ZombieB_Arms_N.webp",
+  "orm": "T_ZombieB_Arms_ORM.webp",
+  "tint": [
+   0.58,
+   0.58,
+   0.52
+  ]
+ },
+ "M_ZombieB_Bodice": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieB_Bodice_BC.webp",
+  "normal": "T_ZombieB_Bodice_N.webp",
+  "orm": "T_ZombieB_Bodice_ORM.webp",
+  "tint": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ "M_ZombieB_Body": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieB_Body_BC.webp",
+  "normal": "T_ZombieB_Body_N.webp",
+  "orm": "T_ZombieB_Body_ORM.webp",
+  "tint": [
+   0.58,
+   0.58,
+   0.52
+  ]
+ },
+ "M_ZombieB_EyesTeeth": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieB_EyesTeeth_BC.webp",
+  "normal": "T_ZombieB_EyesTeeth_N.webp",
+  "orm": "T_ZombieB_EyesTeeth_ORM.webp"
+ },
+ "M_ZombieB_Hair": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieB_Hair_BC.webp",
+  "normal": "T_ZombieB_Hair_N.webp",
+  "orm": "T_ZombieB_Hair_ORM.webp"
+ },
+ "M_ZombieB_Head": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieB_Head_BC.webp",
+  "normal": "T_ZombieB_Head_N.webp",
+  "orm": "T_ZombieB_Head_ORM.webp",
+  "tint": [
+   0.58,
+   0.58,
+   0.52
+  ]
+ },
+ "M_ZombieB_Shoe": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieB_Shoe_BC.webp",
+  "normal": "T_ZombieB_Shoe_N.webp",
+  "orm": "T_ZombieB_Shoe_ORM.webp"
+ },
+ "M_ZombieB_Skirt": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieB_Skirt_BC.webp",
+  "normal": "T_ZombieB_Skirt_N.webp",
+  "orm": "T_ZombieB_Skirt_ORM.webp",
+  "tint": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ "M_ZombieCook_Apron": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieCook_Apron_BC.webp",
+  "normal": "T_ZombieCook_Apron_N.webp",
+  "orm": "T_ZombieCook_Apron_ORM.webp"
+ },
+ "M_ZombieCook_Arms": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieCook_Arms_BC.webp",
+  "normal": "T_ZombieCook_Arms_N.webp",
+  "orm": "T_ZombieCook_Arms_ORM.webp"
+ },
+ "M_ZombieCook_Body": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieCook_Body_BC.webp",
+  "normal": "T_ZombieCook_Body_N.webp",
+  "orm": "T_ZombieCook_Body_ORM.webp"
+ },
+ "M_ZombieCook_EyesTeeth": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieCook_EyesTeeth_BC.webp",
+  "normal": "T_ZombieCook_EyesTeeth_N.webp",
+  "orm": "T_ZombieCook_EyesTeeth_ORM.webp"
+ },
+ "M_ZombieCook_Hair": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieCook_Hair_BC.webp",
+  "normal": "T_ZombieCook_Hair_N.webp",
+  "orm": "T_ZombieCook_Hair_ORM.webp"
+ },
+ "M_ZombieCook_Head": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieCook_Head_BC.webp",
+  "normal": "T_ZombieCook_Head_N.webp",
+  "orm": "T_ZombieCook_Head_ORM.webp"
+ },
+ "M_ZombieCook_Jacket": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieCook_Jacket_BC.webp",
+  "normal": "T_ZombieCook_Jacket_N.webp",
+  "orm": "T_ZombieCook_Jacket_ORM.webp"
+ },
+ "M_ZombieCook_Shoes": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieCook_Shoes_BC.webp",
+  "normal": "T_ZombieCook_Shoes_N.webp",
+  "orm": "T_ZombieCook_Shoes_ORM.webp"
+ },
+ "M_ZombieCook_Trousers": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieCook_Trousers_BC.webp",
+  "normal": "T_ZombieCook_Trousers_N.webp",
+  "orm": "T_ZombieCook_Trousers_ORM.webp"
+ },
+ "M_ZombieDoctor_Arms": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieDoctor_Arms_BC.webp",
+  "normal": "T_ZombieDoctor_Arms_N.webp",
+  "orm": "T_ZombieDoctor_Arms_ORM.webp"
+ },
+ "M_ZombieDoctor_Body": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieDoctor_Body_BC.webp",
+  "normal": "T_ZombieDoctor_Body_N.webp",
+  "orm": "T_ZombieDoctor_Body_ORM.webp"
+ },
+ "M_ZombieDoctor_Coat": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieDoctor_Coat_BC.webp",
+  "normal": "T_ZombieDoctor_Coat_N.webp",
+  "orm": "T_ZombieDoctor_Coat_ORM.webp"
+ },
+ "M_ZombieDoctor_EyesTeeth": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieDoctor_EyesTeeth_BC.webp",
+  "normal": "T_ZombieDoctor_EyesTeeth_N.webp",
+  "orm": "T_ZombieDoctor_EyesTeeth_ORM.webp"
+ },
+ "M_ZombieDoctor_Glasses": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieDoctor_Glasses_BC.webp",
+  "normal": "T_ZombieDoctor_Glasses_N.webp",
+  "orm": "T_ZombieDoctor_Glasses_ORM.webp"
+ },
+ "M_ZombieDoctor_Gloves": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieDoctor_Gloves_BC.webp",
+  "normal": "T_ZombieDoctor_Gloves_N.webp",
+  "orm": "T_ZombieDoctor_Gloves_ORM.webp"
+ },
+ "M_ZombieDoctor_Hair": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieDoctor_Hair_BC.webp",
+  "normal": "T_ZombieDoctor_Hair_N.webp",
+  "orm": "T_ZombieDoctor_Hair_ORM.webp"
+ },
+ "M_ZombieDoctor_Head": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieDoctor_Head_BC.webp",
+  "normal": "T_ZombieDoctor_Head_N.webp",
+  "orm": "T_ZombieDoctor_Head_ORM.webp"
+ },
+ "M_ZombieDoctor_Shirt": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieDoctor_Shirt_BC.webp",
+  "normal": "T_ZombieDoctor_Shirt_N.webp",
+  "orm": "T_ZombieDoctor_Shirt_ORM.webp"
+ },
+ "M_ZombieDoctor_Shoes": {
+  "group": "characters",
+  "blend": "opaque",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieDoctor_Shoes_BC.webp",
+  "normal": "T_ZombieDoctor_Shoes_N.webp",
+  "orm": "T_ZombieDoctor_Shoes_ORM.webp"
+ },
+ "M_ZombieDoctor_Tie": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieDoctor_Tie_BC.webp",
+  "normal": "T_ZombieDoctor_Tie_N.webp",
+  "orm": "T_ZombieDoctor_Tie_ORM.webp"
+ },
+ "M_ZombieDoctor_Trousers": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieDoctor_Trousers_BC.webp",
+  "normal": "T_ZombieDoctor_Trousers_N.webp",
+  "orm": "T_ZombieDoctor_Trousers_ORM.webp"
+ },
+ "M_ZombieDoctor_Waistcoat": {
+  "group": "characters",
+  "blend": "masked",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_ZombieDoctor_Waistcoat_BC.webp",
+  "normal": "T_ZombieDoctor_Waistcoat_N.webp",
+  "orm": "T_ZombieDoctor_Waistcoat_ORM.webp"
+ },
+ "M_MuzzleFlash_01": {
+  "group": "items",
+  "blend": "additive",
+  "twoSided": true,
+  "emissiveStrength": 12,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_MuzzleFlash_01_BC.webp",
+  "emissive": "T_MuzzleFlash_01_BC.webp"
+ },
+ "M_MuzzleFlash_02": {
+  "group": "items",
+  "blend": "additive",
+  "twoSided": true,
+  "emissiveStrength": 12,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_MuzzleFlash_02_BC.webp",
+  "emissive": "T_MuzzleFlash_02_BC.webp"
+ },
+ "M_MuzzleFlash_03": {
+  "group": "items",
+  "blend": "additive",
+  "twoSided": true,
+  "emissiveStrength": 12,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_MuzzleFlash_03_BC.webp",
+  "emissive": "T_MuzzleFlash_03_BC.webp"
+ },
+ "M_Casing_Brass": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Casing_Brass_BC.webp",
+  "normal": "T_Casing_Brass_N.webp",
+  "orm": "T_Casing_Brass_ORM.webp"
+ },
+ "M_BloodWet": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_BloodWet_BC.webp",
+  "normal": "T_BloodWet_N.webp",
+  "orm": "T_BloodWet_ORM.webp"
+ },
+ "M_AmmoBox_Card": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_AmmoBox_Card_BC.webp",
+  "normal": "T_AmmoBox_Card_N.webp",
+  "orm": "T_AmmoBox_Card_ORM.webp"
+ },
+ "M_AmmoBox_Brass": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_AmmoBox_Brass_BC.webp",
+  "normal": "T_AmmoBox_Brass_N.webp",
+  "orm": "T_AmmoBox_Brass_ORM.webp"
+ },
+ "M_AmmoBox_Bullet": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_AmmoBox_Bullet_BC.webp",
+  "normal": "T_AmmoBox_Bullet_N.webp",
+  "orm": "T_AmmoBox_Bullet_ORM.webp"
+ },
+ "M_Herb_Pot": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Herb_Pot_BC.webp",
+  "normal": "T_Herb_Pot_N.webp",
+  "orm": "T_Herb_Pot_ORM.webp"
+ },
+ "M_Herb_Soil": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Herb_Soil_BC.webp",
+  "normal": "T_Herb_Soil_N.webp",
+  "orm": "T_Herb_Soil_ORM.webp"
+ },
+ "M_Herb_Stem": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Herb_Stem_BC.webp",
+  "normal": "T_Herb_Stem_N.webp",
+  "orm": "T_Herb_Stem_ORM.webp"
+ },
+ "M_Herb_Leaf": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Herb_Leaf_BC.webp",
+  "normal": "T_Herb_Leaf_N.webp",
+  "orm": "T_Herb_Leaf_ORM.webp"
+ },
+ "M_Spray_Can": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Spray_Can_BC.webp",
+  "normal": "T_Spray_Can_N.webp",
+  "orm": "T_Spray_Can_ORM.webp"
+ },
+ "M_Spray_Cap": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Spray_Cap_BC.webp",
+  "normal": "T_Spray_Cap_N.webp",
+  "orm": "T_Spray_Cap_ORM.webp"
+ },
+ "M_Key_Brass": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Key_Brass_BC.webp",
+  "normal": "T_Key_Brass_N.webp",
+  "orm": "T_Key_Brass_ORM.webp"
+ },
+ "M_Ribbon_Tin": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Ribbon_Tin_BC.webp",
+  "normal": "T_Ribbon_Tin_N.webp",
+  "orm": "T_Ribbon_Tin_ORM.webp"
+ },
+ "M_Ribbon_Spool": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Ribbon_Spool_BC.webp",
+  "normal": "T_Ribbon_Spool_N.webp",
+  "orm": "T_Ribbon_Spool_ORM.webp"
+ },
+ "M_Note_Paper": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Note_Paper_BC.webp",
+  "normal": "T_Note_Paper_N.webp",
+  "orm": "T_Note_Paper_ORM.webp"
+ },
+ "M_Typewriter_Body": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Typewriter_Body_BC.webp",
+  "normal": "T_Typewriter_Body_N.webp",
+  "orm": "T_Typewriter_Body_ORM.webp"
+ },
+ "M_Typewriter_Rubber": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Typewriter_Rubber_BC.webp",
+  "normal": "T_Typewriter_Rubber_N.webp",
+  "orm": "T_Typewriter_Rubber_ORM.webp"
+ },
+ "M_Typewriter_Metal": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Typewriter_Metal_BC.webp",
+  "normal": "T_Typewriter_Metal_N.webp",
+  "orm": "T_Typewriter_Metal_ORM.webp"
+ },
+ "M_Typewriter_Keys": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Typewriter_Keys_BC.webp",
+  "normal": "T_Typewriter_Keys_N.webp",
+  "orm": "T_Typewriter_Keys_ORM.webp"
+ },
+ "M_Typewriter_Paper": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": true,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Typewriter_Paper_BC.webp",
+  "normal": "T_Typewriter_Paper_N.webp",
+  "orm": "T_Typewriter_Paper_ORM.webp"
+ },
+ "M_Decal_BloodSplat_01": {
+  "group": "items",
+  "blend": "decal",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Decal_BloodSplat_01_BC.webp",
+  "normal": "T_Decal_BloodSplat_01_N.webp",
+  "orm": "T_Decal_BloodSplat_01_ORM.webp",
+  "decalSizeM": [
+   0.6,
+   0.6
+  ]
+ },
+ "M_Decal_BloodSplat_02": {
+  "group": "items",
+  "blend": "decal",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Decal_BloodSplat_02_BC.webp",
+  "normal": "T_Decal_BloodSplat_02_N.webp",
+  "orm": "T_Decal_BloodSplat_02_ORM.webp",
+  "decalSizeM": [
+   0.8,
+   0.8
+  ]
+ },
+ "M_Decal_BloodSplat_03": {
+  "group": "items",
+  "blend": "decal",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Decal_BloodSplat_03_BC.webp",
+  "normal": "T_Decal_BloodSplat_03_N.webp",
+  "orm": "T_Decal_BloodSplat_03_ORM.webp",
+  "decalSizeM": [
+   0.5,
+   0.5
+  ]
+ },
+ "M_Decal_BloodSplat_04": {
+  "group": "items",
+  "blend": "decal",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Decal_BloodSplat_04_BC.webp",
+  "normal": "T_Decal_BloodSplat_04_N.webp",
+  "orm": "T_Decal_BloodSplat_04_ORM.webp",
+  "decalSizeM": [
+   1,
+   1
+  ]
+ },
+ "M_Decal_BloodPool": {
+  "group": "items",
+  "blend": "decal",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Decal_BloodPool_BC.webp",
+  "normal": "T_Decal_BloodPool_N.webp",
+  "orm": "T_Decal_BloodPool_ORM.webp",
+  "decalSizeM": [
+   1.2,
+   1.2
+  ]
+ },
+ "M_Decal_BloodSmear": {
+  "group": "items",
+  "blend": "decal",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Decal_BloodSmear_BC.webp",
+  "normal": "T_Decal_BloodSmear_N.webp",
+  "orm": "T_Decal_BloodSmear_ORM.webp",
+  "decalSizeM": [
+   3,
+   1
+  ]
+ },
+ "M_Decal_BloodHandprint": {
+  "group": "items",
+  "blend": "decal",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Decal_BloodHandprint_BC.webp",
+  "normal": "T_Decal_BloodHandprint_N.webp",
+  "orm": "T_Decal_BloodHandprint_ORM.webp",
+  "decalSizeM": [
+   0.7,
+   0.7
+  ]
+ },
+ "M_Decal_BulletHole": {
+  "group": "items",
+  "blend": "decal",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Decal_BulletHole_BC.webp",
+  "normal": "T_Decal_BulletHole_N.webp",
+  "orm": "T_Decal_BulletHole_ORM.webp",
+  "decalSizeM": [
+   0.12,
+   0.12
+  ]
+ },
+ "M_Decal_WaterStain": {
+  "group": "items",
+  "blend": "decal",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Decal_WaterStain_BC.webp",
+  "orm": "T_Decal_WaterStain_ORM.webp",
+  "decalSizeM": [
+   1.6,
+   1.4
+  ]
+ },
+ "M_Handgun_Metal": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Handgun_Metal_BC.webp",
+  "normal": "T_Handgun_Metal_N.webp",
+  "orm": "T_Handgun_Metal_ORM.webp"
+ },
+ "M_Handgun_Grip": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Handgun_Grip_BC.webp",
+  "normal": "T_Handgun_Grip_N.webp",
+  "orm": "T_Handgun_Grip_ORM.webp"
+ },
+ "M_FP_Skin": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_FP_Skin_BC.webp",
+  "normal": "T_FP_Skin_N.webp",
+  "orm": "T_FP_Skin_ORM.webp",
+  "tint": [
+   0.78,
+   0.7,
+   0.66
+  ]
+ },
+ "M_FP_Sleeve": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_FP_Sleeve_BC.webp",
+  "normal": "T_FP_Sleeve_N.webp",
+  "orm": "T_FP_Sleeve_ORM.webp"
+ },
+ "M_Handgun_Slide": {
+  "group": "items",
+  "blend": "opaque",
+  "twoSided": false,
+  "emissiveStrength": 0,
+  "opacity": 1,
+  "uvScale": [
+   1,
+   1
+  ],
+  "baseColor": "T_Handgun_Slide_BC.webp",
+  "normal": "T_Handgun_Slide_N.webp",
+  "orm": "T_Handgun_Slide_ORM.webp"
+ }
+}

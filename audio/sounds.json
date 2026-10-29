@@ -1,0 +1,912 @@
+{
+ "SFX_Gunshot_01": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 1,
+  "lengthS": 0.855
+ },
+ "SFX_Gunshot_02": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 1,
+  "lengthS": 0.833
+ },
+ "SFX_Gunshot_03": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 1,
+  "lengthS": 0.815
+ },
+ "SFX_DryFire": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.6,
+  "lengthS": 0.169
+ },
+ "SFX_ReloadOut": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.65,
+  "lengthS": 0.95
+ },
+ "SFX_ReloadIn": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.65,
+  "lengthS": 0.253
+ },
+ "SFX_SlideRack": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.7,
+  "lengthS": 0.471
+ },
+ "SFX_CasingTink_01": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.35,
+  "lengthS": 1.044
+ },
+ "SFX_CasingTink_02": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.35,
+  "lengthS": 0.874
+ },
+ "SFX_CasingTink_03": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.35,
+  "lengthS": 1.3
+ },
+ "SFX_Step_Wood_01": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.45,
+  "lengthS": 0.274
+ },
+ "SFX_Step_Wood_02": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.45,
+  "lengthS": 0.37
+ },
+ "SFX_Step_Wood_03": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.45,
+  "lengthS": 0.252
+ },
+ "SFX_Step_Wood_04": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.45,
+  "lengthS": 0.295
+ },
+ "SFX_Step_Wood_05": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.45,
+  "lengthS": 0.415
+ },
+ "SFX_Step_Wood_06": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.45,
+  "lengthS": 0.292
+ },
+ "SFX_Step_Tile_01": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.45,
+  "lengthS": 0.188
+ },
+ "SFX_Step_Tile_02": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.45,
+  "lengthS": 0.192
+ },
+ "SFX_Step_Tile_03": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.45,
+  "lengthS": 0.202
+ },
+ "SFX_Step_Tile_04": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.45,
+  "lengthS": 0.205
+ },
+ "SFX_Step_Rug_01": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.35,
+  "lengthS": 0.301
+ },
+ "SFX_Step_Rug_02": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.35,
+  "lengthS": 0.265
+ },
+ "SFX_Step_Rug_03": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.35,
+  "lengthS": 0.281
+ },
+ "SFX_DoorOpen_01": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.75,
+  "lengthS": 1.573
+ },
+ "SFX_DoorOpen_02": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.75,
+  "lengthS": 2.024
+ },
+ "SFX_DoorClose": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.8,
+  "lengthS": 1.19
+ },
+ "SFX_DoorLocked": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.7,
+  "lengthS": 1.152
+ },
+ "SFX_DoorUnlock": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.7,
+  "lengthS": 1.35
+ },
+ "SFX_ItemPickup": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.5,
+  "lengthS": 0.49
+ },
+ "SFX_KeyPickup": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.5,
+  "lengthS": 0.95
+ },
+ "SFX_HerbUse": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.6,
+  "lengthS": 1.071
+ },
+ "SFX_SprayUse": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.6,
+  "lengthS": 1.088
+ },
+ "SFX_FlashlightClick": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.4,
+  "lengthS": 0.086
+ },
+ "SFX_GlassBreak_01": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.9,
+  "lengthS": 0.718
+ },
+ "SFX_GlassBreak_02": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.9,
+  "lengthS": 0.6
+ },
+ "SFX_PorcelainBreak": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.9,
+  "lengthS": 0.59
+ },
+ "SFX_Zombie_Moan_01": {
+  "kind": "voice",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.8,
+  "lengthS": 2.618
+ },
+ "SFX_Zombie_Moan_02": {
+  "kind": "voice",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.8,
+  "lengthS": 3.523
+ },
+ "SFX_Zombie_Moan_03": {
+  "kind": "voice",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.8,
+  "lengthS": 1.681
+ },
+ "SFX_Zombie_Moan_04": {
+  "kind": "voice",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.8,
+  "lengthS": 3.037
+ },
+ "SFX_Zombie_Moan_05": {
+  "kind": "voice",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.8,
+  "lengthS": 3.988
+ },
+ "SFX_Zombie_Moan_06": {
+  "kind": "voice",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.8,
+  "lengthS": 2.205
+ },
+ "SFX_Zombie_Alert_01": {
+  "kind": "voice",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.9,
+  "lengthS": 1.485
+ },
+ "SFX_Zombie_Alert_02": {
+  "kind": "voice",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.9,
+  "lengthS": 1.295
+ },
+ "SFX_Zombie_Attack_01": {
+  "kind": "voice",
+  "loop": false,
+  "spatial": true,
+  "volume": 1,
+  "lengthS": 0.92
+ },
+ "SFX_Zombie_Attack_02": {
+  "kind": "voice",
+  "loop": false,
+  "spatial": true,
+  "volume": 1,
+  "lengthS": 1.012
+ },
+ "SFX_Zombie_Bite": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 1,
+  "lengthS": 1.273
+ },
+ "SFX_Zombie_Death_01": {
+  "kind": "voice",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.9,
+  "lengthS": 2.255
+ },
+ "SFX_Zombie_Death_02": {
+  "kind": "voice",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.9,
+  "lengthS": 2.004
+ },
+ "SFX_Zombie_Feed_Loop": {
+  "kind": "sfx",
+  "loop": true,
+  "spatial": true,
+  "volume": 0.7,
+  "lengthS": 6
+ },
+ "SFX_Zombie_Shuffle_01": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.5,
+  "lengthS": 0.848
+ },
+ "SFX_Zombie_Shuffle_02": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.5,
+  "lengthS": 0.613
+ },
+ "SFX_Zombie_Shuffle_03": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.5,
+  "lengthS": 0.905
+ },
+ "SFX_Zombie_Shuffle_04": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.5,
+  "lengthS": 0.682
+ },
+ "SFX_BulletFlesh_01": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.8,
+  "lengthS": 0.474
+ },
+ "SFX_BulletFlesh_02": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.8,
+  "lengthS": 0.474
+ },
+ "SFX_BulletFlesh_03": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.8,
+  "lengthS": 0.374
+ },
+ "SFX_BulletWall_01": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.7,
+  "lengthS": 0.782
+ },
+ "SFX_BulletWall_02": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.7,
+  "lengthS": 0.837
+ },
+ "SFX_BulletWall_03": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.7,
+  "lengthS": 0.712
+ },
+ "SFX_HeadPop": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 1,
+  "lengthS": 1.183
+ },
+ "SFX_BloodSplat_01": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.5,
+  "lengthS": 0.401
+ },
+ "SFX_BloodSplat_02": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.5,
+  "lengthS": 0.441
+ },
+ "SFX_Player_Hurt_01": {
+  "kind": "voice",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.8,
+  "lengthS": 0.45
+ },
+ "SFX_Player_Hurt_02": {
+  "kind": "voice",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.8,
+  "lengthS": 0.65
+ },
+ "SFX_Player_Hurt_03": {
+  "kind": "voice",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.8,
+  "lengthS": 0.58
+ },
+ "SFX_Player_Death": {
+  "kind": "voice",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.9,
+  "lengthS": 2.56
+ },
+ "SFX_Heartbeat_Loop": {
+  "kind": "sfx",
+  "loop": true,
+  "spatial": false,
+  "volume": 0.7,
+  "lengthS": 2.1
+ },
+ "SFX_Breath_Loop": {
+  "kind": "voice",
+  "loop": true,
+  "spatial": false,
+  "volume": 0.5,
+  "lengthS": 7.2
+ },
+ "SFX_Zombie_Knockdown": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.9,
+  "lengthS": 2.323
+ },
+ "SFX_Zombie_GetUp": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.85,
+  "lengthS": 2.25
+ },
+ "AMB_Rain_Interior_Loop": {
+  "kind": "ambience",
+  "loop": true,
+  "spatial": false,
+  "volume": 0.5,
+  "lengthS": 30
+ },
+ "AMB_Rain_Window_Loop": {
+  "kind": "ambience",
+  "loop": true,
+  "spatial": true,
+  "volume": 0.5,
+  "lengthS": 20
+ },
+ "SFX_Thunder_01": {
+  "kind": "ambience",
+  "loop": false,
+  "spatial": false,
+  "volume": 1,
+  "lengthS": 7.5
+ },
+ "SFX_Thunder_02": {
+  "kind": "ambience",
+  "loop": false,
+  "spatial": false,
+  "volume": 1,
+  "lengthS": 8.17
+ },
+ "SFX_Thunder_03": {
+  "kind": "ambience",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.75,
+  "lengthS": 6.5
+ },
+ "SFX_Thunder_04": {
+  "kind": "ambience",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.75,
+  "lengthS": 8.5
+ },
+ "AMB_HouseCreak_01": {
+  "kind": "ambience",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.5,
+  "lengthS": 0.932
+ },
+ "AMB_HouseCreak_02": {
+  "kind": "ambience",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.5,
+  "lengthS": 2.657
+ },
+ "AMB_HouseCreak_03": {
+  "kind": "ambience",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.5,
+  "lengthS": 0.745
+ },
+ "AMB_HouseCreak_04": {
+  "kind": "ambience",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.5,
+  "lengthS": 1.473
+ },
+ "AMB_HouseCreak_05": {
+  "kind": "ambience",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.5,
+  "lengthS": 2.179
+ },
+ "AMB_DistantThud_01": {
+  "kind": "ambience",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.5,
+  "lengthS": 2.08
+ },
+ "AMB_DistantThud_02": {
+  "kind": "ambience",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.5,
+  "lengthS": 2.74
+ },
+ "AMB_FireCrackle_Loop": {
+  "kind": "ambience",
+  "loop": true,
+  "spatial": true,
+  "volume": 0.6,
+  "lengthS": 12
+ },
+ "AMB_LampBuzz_Loop": {
+  "kind": "ambience",
+  "loop": true,
+  "spatial": true,
+  "volume": 0.35,
+  "lengthS": 8
+ },
+ "AMB_ClockTick_Loop": {
+  "kind": "ambience",
+  "loop": true,
+  "spatial": true,
+  "volume": 0.5,
+  "lengthS": 4
+ },
+ "MUS_SafeRoom_Loop": {
+  "kind": "music",
+  "loop": true,
+  "spatial": false,
+  "volume": 0.6,
+  "lengthS": 64
+ },
+ "MUS_Tension_Stinger": {
+  "kind": "music",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.9,
+  "lengthS": 4.2
+ },
+ "MUS_Title_Loop": {
+  "kind": "music",
+  "loop": true,
+  "spatial": false,
+  "volume": 0.6,
+  "lengthS": 45
+ },
+ "MUS_DemoEnd": {
+  "kind": "music",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.7,
+  "lengthS": 19.851
+ },
+ "UI_Cursor": {
+  "kind": "ui",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.5,
+  "lengthS": 0.248
+ },
+ "UI_Select": {
+  "kind": "ui",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.6,
+  "lengthS": 1.316
+ },
+ "UI_Back": {
+  "kind": "ui",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.55,
+  "lengthS": 0.892
+ },
+ "UI_Typewriter_Save": {
+  "kind": "ui",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.7,
+  "lengthS": 2.868
+ },
+ "UI_InventoryOpen": {
+  "kind": "ui",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.55,
+  "lengthS": 0.5
+ },
+ "UI_InventoryClose": {
+  "kind": "ui",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.55,
+  "lengthS": 0.45
+ },
+ "SFX_Shotgun_Fire_01": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 1,
+  "lengthS": 1.391
+ },
+ "SFX_Shotgun_Fire_02": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 1,
+  "lengthS": 1.37
+ },
+ "SFX_Shotgun_Fire_03": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 1,
+  "lengthS": 1.354
+ },
+ "SFX_Shotgun_Pump": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.8,
+  "lengthS": 0.62
+ },
+ "SFX_Shotgun_ShellInsert_01": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.6,
+  "lengthS": 0.245
+ },
+ "SFX_Shotgun_ShellInsert_02": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.6,
+  "lengthS": 0.236
+ },
+ "SFX_Shotgun_ShellInsert_03": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.6,
+  "lengthS": 0.233
+ },
+ "SFX_Shotgun_DryFire": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.65,
+  "lengthS": 0.287
+ },
+ "SFX_ShellDrop_01": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.4,
+  "lengthS": 0.452
+ },
+ "SFX_ShellDrop_02": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.4,
+  "lengthS": 0.572
+ },
+ "SFX_SMG_Fire_01": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.85,
+  "lengthS": 0.352
+ },
+ "SFX_SMG_Fire_02": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.85,
+  "lengthS": 0.368
+ },
+ "SFX_SMG_Fire_03": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.85,
+  "lengthS": 0.361
+ },
+ "SFX_SMG_Fire_04": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.85,
+  "lengthS": 0.37
+ },
+ "SFX_SMG_Tail": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.85,
+  "lengthS": 1.209
+ },
+ "SFX_SMG_ReloadOut": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.7,
+  "lengthS": 0.606
+ },
+ "SFX_SMG_ReloadIn": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.7,
+  "lengthS": 0.432
+ },
+ "SFX_SMG_Bolt": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.75,
+  "lengthS": 0.535
+ },
+ "SFX_SMG_DryFire": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.6,
+  "lengthS": 0.268
+ },
+ "SFX_WeaponSwap": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.5,
+  "lengthS": 0.46
+ },
+ "SFX_LeverThrow": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.9,
+  "lengthS": 1.6
+ },
+ "SFX_PowerOn": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.8,
+  "lengthS": 3.2
+ },
+ "SFX_MetalDoorOpen": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.8,
+  "lengthS": 2.598
+ },
+ "SFX_MetalDoorClose": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.9,
+  "lengthS": 2.6
+ },
+ "SFX_ElevatorGate": {
+  "kind": "sfx",
+  "loop": false,
+  "spatial": true,
+  "volume": 0.8,
+  "lengthS": 1.843
+ },
+ "AMB_BoilerRoar_Loop": {
+  "kind": "ambience",
+  "loop": true,
+  "spatial": true,
+  "volume": 0.7,
+  "lengthS": 20
+ },
+ "AMB_Drip_Loop": {
+  "kind": "ambience",
+  "loop": true,
+  "spatial": true,
+  "volume": 0.6,
+  "lengthS": 15
+ },
+ "AMB_LabHum_Loop": {
+  "kind": "ambience",
+  "loop": true,
+  "spatial": true,
+  "volume": 0.6,
+  "lengthS": 15
+ },
+ "AMB_Cellar_Interior_Loop": {
+  "kind": "ambience",
+  "loop": true,
+  "spatial": false,
+  "volume": 0.5,
+  "lengthS": 40
+ },
+ "MUS_Level2_Tension_Loop": {
+  "kind": "music",
+  "loop": true,
+  "spatial": false,
+  "volume": 0.5,
+  "lengthS": 72
+ },
+ "MUS_Level3_Lab_Loop": {
+  "kind": "music",
+  "loop": true,
+  "spatial": false,
+  "volume": 0.5,
+  "lengthS": 68.571
+ },
+ "MUS_Shotgun_Found": {
+  "kind": "music",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.8,
+  "lengthS": 3.2
+ },
+ "MUS_SMG_Found": {
+  "kind": "music",
+  "loop": false,
+  "spatial": false,
+  "volume": 0.8,
+  "lengthS": 3.2
+ }
+}

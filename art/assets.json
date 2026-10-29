@@ -1,0 +1,1147 @@
+{
+ "SM_ArmchairLeather": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_ArmchairLeather.glb",
+  "triangles": 10134,
+  "collision": "box",
+  "sizeM": [
+   0.89,
+   0.823,
+   1
+  ],
+  "lightmap": {
+   "areaM2": 6.188,
+   "regionPx": 153,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_BathtubClawfoot": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_BathtubClawfoot.glb",
+  "triangles": 4580,
+  "collision": "ucx",
+  "sizeM": [
+   1.71,
+   0.89,
+   0.714
+  ],
+  "lightmap": {
+   "areaM2": 5.779,
+   "regionPx": 137,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_Bed": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Bed.glb",
+  "triangles": 17522,
+  "collision": "ucx",
+  "sizeM": [
+   1.62,
+   2.2,
+   2.2
+  ],
+  "lightmap": {
+   "areaM2": 68.897,
+   "regionPx": 486,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_BooksPile": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_BooksPile.glb",
+  "triangles": 1692,
+  "collision": "none",
+  "sizeM": [
+   0.593,
+   0.418,
+   0.281
+  ],
+  "lightmap": {
+   "areaM2": 1.201,
+   "regionPx": 72,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_Bookshelf": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Bookshelf.glb",
+  "triangles": 16040,
+  "collision": "box",
+  "sizeM": [
+   1.06,
+   0.43,
+   2.4
+  ],
+  "lightmap": {
+   "areaM2": 24.573,
+   "regionPx": 292,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_BottleEmpty": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_BottleEmpty.glb",
+  "triangles": 1248,
+  "collision": "none",
+  "sizeM": [
+   0.076,
+   0.076,
+   0.295
+  ]
+ },
+ "SM_Candlestick": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Candlestick.glb",
+  "triangles": 1392,
+  "collision": "none",
+  "sizeM": [
+   0.096,
+   0.096,
+   0.313
+  ]
+ },
+ "SM_ChairBroken": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_ChairBroken.glb",
+  "triangles": 2780,
+  "collision": "box",
+  "sizeM": [
+   0.662,
+   0.598,
+   1.026
+  ],
+  "lightmap": {
+   "areaM2": 1.07,
+   "regionPx": 84,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_ChairWood": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_ChairWood.glb",
+  "triangles": 2500,
+  "collision": "box",
+  "sizeM": [
+   0.45,
+   0.477,
+   0.95
+  ],
+  "lightmap": {
+   "areaM2": 1.127,
+   "regionPx": 88,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_Chandelier": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Chandelier.glb",
+  "triangles": 7317,
+  "collision": "none",
+  "sizeM": [
+   1.04,
+   0.959,
+   0.78
+  ]
+ },
+ "SM_CobwebCorner": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_CobwebCorner.glb",
+  "triangles": 3,
+  "collision": "none",
+  "sizeM": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "SM_Cot": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Cot.glb",
+  "triangles": 10078,
+  "collision": "box",
+  "sizeM": [
+   1.916,
+   0.94,
+   0.522
+  ],
+  "lightmap": {
+   "areaM2": 12.71,
+   "regionPx": 268,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_Curtains": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Curtains.glb",
+  "triangles": 9382,
+  "collision": "none",
+  "sizeM": [
+   2.085,
+   0.261,
+   2.907
+  ],
+  "lightmap": {
+   "areaM2": 8.826,
+   "regionPx": 310,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_DeskLamp": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_DeskLamp.glb",
+  "triangles": 2072,
+  "collision": "none",
+  "sizeM": [
+   0.284,
+   0.178,
+   0.409
+  ]
+ },
+ "SM_DeskLarge": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_DeskLarge.glb",
+  "triangles": 7468,
+  "collision": "ucx",
+  "sizeM": [
+   1.875,
+   0.93,
+   0.943
+  ],
+  "lightmap": {
+   "areaM2": 17.375,
+   "regionPx": 256,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_DoorFrame_100x220": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_DoorFrame_100x220.glb",
+  "triangles": 2064,
+  "collision": "box",
+  "sizeM": [
+   1.202,
+   0.25,
+   2.29
+  ],
+  "lightmap": {
+   "areaM2": 5.565,
+   "regionPx": 233,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_DoorFrame_160x250": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_DoorFrame_160x250.glb",
+  "triangles": 2064,
+  "collision": "box",
+  "sizeM": [
+   1.802,
+   0.25,
+   2.59
+  ],
+  "lightmap": {
+   "areaM2": 6.723,
+   "regionPx": 261,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_DoorFrame_90x210": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_DoorFrame_90x210.glb",
+  "triangles": 2064,
+  "collision": "box",
+  "sizeM": [
+   1.102,
+   0.25,
+   2.19
+  ],
+  "lightmap": {
+   "areaM2": 5.275,
+   "regionPx": 172,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_Door_100": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Door_100.glb",
+  "triangles": 6524,
+  "collision": "box",
+  "sizeM": [
+   0.948,
+   0.195,
+   2.16
+  ]
+ },
+ "SM_Door_90": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Door_90.glb",
+  "triangles": 6524,
+  "collision": "box",
+  "sizeM": [
+   0.848,
+   0.195,
+   2.06
+  ]
+ },
+ "SM_DoubleDoorLeaf": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_DoubleDoorLeaf.glb",
+  "triangles": 4948,
+  "collision": "box",
+  "sizeM": [
+   0.778,
+   0.157,
+   2.46
+  ]
+ },
+ "SM_ExteriorBackdrop": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_ExteriorBackdrop.glb",
+  "triangles": 56,
+  "collision": "none",
+  "sizeM": [
+   14,
+   0.415,
+   9
+  ]
+ },
+ "SM_Fireplace": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Fireplace.glb",
+  "triangles": 3688,
+  "collision": "ucx",
+  "sizeM": [
+   1.84,
+   0.9,
+   1.4
+  ],
+  "lightmap": {
+   "areaM2": 22.731,
+   "regionPx": 264,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_Globe": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Globe.glb",
+  "triangles": 6544,
+  "collision": "box",
+  "sizeM": [
+   0.544,
+   0.544,
+   0.986
+  ],
+  "lightmap": {
+   "areaM2": 0.961,
+   "regionPx": 98,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_GrandfatherClock": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_GrandfatherClock.glb",
+  "triangles": 5644,
+  "collision": "box",
+  "sizeM": [
+   0.61,
+   0.335,
+   2.11
+  ],
+  "lightmap": {
+   "areaM2": 7.336,
+   "regionPx": 174,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_MirrorBathroom": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_MirrorBathroom.glb",
+  "triangles": 68,
+  "collision": "none",
+  "sizeM": [
+   0.55,
+   0.04,
+   0.75
+  ],
+  "lightmap": {
+   "areaM2": 1.01,
+   "regionPx": 74,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_Nightstand": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Nightstand.glb",
+  "triangles": 2772,
+  "collision": "box",
+  "sizeM": [
+   0.5,
+   0.497,
+   0.65
+  ],
+  "lightmap": {
+   "areaM2": 2.565,
+   "regionPx": 104,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_OilLamp": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_OilLamp.glb",
+  "triangles": 4120,
+  "collision": "none",
+  "sizeM": [
+   0.18,
+   0.18,
+   0.42
+  ]
+ },
+ "SM_PaintingLandscape": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_PaintingLandscape.glb",
+  "triangles": 1636,
+  "collision": "none",
+  "sizeM": [
+   1.101,
+   0.079,
+   0.751
+  ],
+  "lightmap": {
+   "areaM2": 2.07,
+   "regionPx": 112,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_PaintingPortrait": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_PaintingPortrait.glb",
+  "triangles": 1636,
+  "collision": "none",
+  "sizeM": [
+   0.711,
+   0.079,
+   0.911
+  ],
+  "lightmap": {
+   "areaM2": 1.638,
+   "regionPx": 87,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_PapersScattered": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_PapersScattered.glb",
+  "triangles": 108,
+  "collision": "none",
+  "sizeM": [
+   0.891,
+   0.615,
+   0.006
+  ],
+  "lightmap": {
+   "areaM2": 1.141,
+   "regionPx": 71,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_RugPersian": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_RugPersian.glb",
+  "triangles": 2508,
+  "collision": "none",
+  "sizeM": [
+   2,
+   3.12,
+   0.01
+  ],
+  "lightmap": {
+   "areaM2": 12.377,
+   "regionPx": 233,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_RunnerRug": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_RunnerRug.glb",
+  "triangles": 1308,
+  "collision": "none",
+  "sizeM": [
+   6.12,
+   1,
+   0.01
+  ],
+  "lightmap": {
+   "areaM2": 12.257,
+   "regionPx": 346,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_Shell_Bathroom": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Shell_Bathroom.glb",
+  "triangles": 332,
+  "collision": "complex",
+  "sizeM": [
+   4,
+   3,
+   3
+  ],
+  "lightmap": {
+   "areaM2": 105.914,
+   "regionPx": 649,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_Shell_Bedroom": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Shell_Bedroom.glb",
+  "triangles": 16994,
+  "collision": "complex",
+  "sizeM": [
+   6,
+   5.4,
+   3.4
+  ],
+  "lightmap": {
+   "areaM2": 213.712,
+   "regionPx": 776,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_Shell_Exterior": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Shell_Exterior.glb",
+  "triangles": 267,
+  "collision": "complex",
+  "sizeM": [
+   16.4,
+   12.8,
+   4
+  ]
+ },
+ "SM_Shell_Hallway": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Shell_Hallway.glb",
+  "triangles": 26379,
+  "collision": "complex",
+  "sizeM": [
+   16.4,
+   2.9,
+   3.4
+  ],
+  "lightmap": {
+   "areaM2": 320.802,
+   "regionPx": 972,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_Shell_Saferoom": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Shell_Saferoom.glb",
+  "triangles": 12582,
+  "collision": "complex",
+  "sizeM": [
+   4,
+   3.5,
+   3
+  ],
+  "lightmap": {
+   "areaM2": 126.904,
+   "regionPx": 614,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_Shell_Study": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Shell_Study.glb",
+  "triangles": 20622,
+  "collision": "complex",
+  "sizeM": [
+   8,
+   6.2,
+   3.6
+  ],
+  "lightmap": {
+   "areaM2": 292.682,
+   "regionPx": 907,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_SideTable": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_SideTable.glb",
+  "triangles": 2372,
+  "collision": "box",
+  "sizeM": [
+   1.024,
+   0.412,
+   0.8
+  ],
+  "lightmap": {
+   "areaM2": 2.387,
+   "regionPx": 113,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_SinkPedestal": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_SinkPedestal.glb",
+  "triangles": 3376,
+  "collision": "box",
+  "sizeM": [
+   0.6,
+   0.49,
+   0.96
+  ],
+  "lightmap": {
+   "areaM2": 1.484,
+   "regionPx": 92,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_StorageChest": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_StorageChest.glb",
+  "triangles": 2680,
+  "collision": "box",
+  "sizeM": [
+   1.032,
+   0.576,
+   0.604
+  ],
+  "lightmap": {
+   "areaM2": 6.06,
+   "regionPx": 164,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_TableSmall": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_TableSmall.glb",
+  "triangles": 1000,
+  "collision": "box",
+  "sizeM": [
+   1.2,
+   0.6,
+   0.76
+  ],
+  "lightmap": {
+   "areaM2": 2.871,
+   "regionPx": 107,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_ToiletOld": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_ToiletOld.glb",
+  "triangles": 3424,
+  "collision": "box",
+  "sizeM": [
+   0.503,
+   0.72,
+   0.8
+  ],
+  "lightmap": {
+   "areaM2": 2.376,
+   "regionPx": 100,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_Vase": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Vase.glb",
+  "triangles": 4380,
+  "collision": "none",
+  "sizeM": [
+   0.287,
+   0.278,
+   0.481
+  ]
+ },
+ "SM_WallSconce": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_WallSconce.glb",
+  "triangles": 4000,
+  "collision": "none",
+  "sizeM": [
+   0.364,
+   0.252,
+   0.367
+  ]
+ },
+ "SM_Wardrobe": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Wardrobe.glb",
+  "triangles": 4820,
+  "collision": "box",
+  "sizeM": [
+   1.3,
+   0.662,
+   2.15
+  ],
+  "lightmap": {
+   "areaM2": 20.044,
+   "regionPx": 261,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_Window_100x180": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Window_100x180.glb",
+  "triangles": 5040,
+  "collision": "box",
+  "sizeM": [
+   1.2,
+   0.337,
+   1.93
+  ],
+  "lightmap": {
+   "areaM2": 8.523,
+   "regionPx": 228,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_Window_130x180": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Window_130x180.glb",
+  "triangles": 5464,
+  "collision": "box",
+  "sizeM": [
+   1.5,
+   0.337,
+   1.93
+  ],
+  "lightmap": {
+   "areaM2": 10.346,
+   "regionPx": 252,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_Window_130x200": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Window_130x200.glb",
+  "triangles": 5464,
+  "collision": "box",
+  "sizeM": [
+   1.5,
+   0.337,
+   2.13
+  ],
+  "lightmap": {
+   "areaM2": 11.175,
+   "regionPx": 260,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_Window_80x100": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_Window_80x100.glb",
+  "triangles": 4616,
+  "collision": "box",
+  "sizeM": [
+   1,
+   0.337,
+   1.13
+  ],
+  "lightmap": {
+   "areaM2": 4.829,
+   "regionPx": 174,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SM_WritingDesk": {
+  "group": "environment",
+  "kind": "static",
+  "file": "meshes/SM_WritingDesk.glb",
+  "triangles": 1540,
+  "collision": "box",
+  "sizeM": [
+   1.2,
+   0.606,
+   0.783
+  ],
+  "lightmap": {
+   "areaM2": 3.202,
+   "regionPx": 116,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "SK_ZombieA": {
+  "group": "characters",
+  "kind": "skeletal",
+  "file": "meshes/SK_ZombieA.glb",
+  "triangles": 20029,
+  "sizeM": [
+   0.881,
+   0.318,
+   1.687
+  ]
+ },
+ "SK_ZombieB": {
+  "group": "characters",
+  "kind": "skeletal",
+  "file": "meshes/SK_ZombieB.glb",
+  "triangles": 16547,
+  "sizeM": [
+   0.872,
+   0.524,
+   1.689
+  ]
+ },
+ "SK_ZombieCook": {
+  "group": "characters",
+  "kind": "skeletal",
+  "file": "meshes/SK_ZombieCook.glb",
+  "triangles": 20713,
+  "sizeM": [
+   0.881,
+   0.398,
+   1.684
+  ]
+ },
+ "SK_ZombieDoctor": {
+  "group": "characters",
+  "kind": "skeletal",
+  "file": "meshes/SK_ZombieDoctor.glb",
+  "triangles": 21153,
+  "sizeM": [
+   0.892,
+   0.461,
+   1.687
+  ]
+ },
+ "SM_Corpse": {
+  "group": "characters",
+  "kind": "static",
+  "file": "meshes/SM_Corpse.glb",
+  "triangles": 13127,
+  "collision": "none",
+  "sizeM": [
+   1.745,
+   1.058,
+   0.763
+  ],
+  "lightmap": {
+   "areaM2": 2.939,
+   "regionPx": 190,
+   "texelsPerM": 40,
+   "marginPx": 3
+  }
+ },
+ "A_Zombie": {
+  "group": "characters",
+  "kind": "animations",
+  "file": "meshes/A_Zombie.glb",
+  "triangles": 0,
+  "clips": [
+   {
+    "name": "A_Zombie_Attack",
+    "loop": false,
+    "lengthS": 1.3
+   },
+   {
+    "name": "A_Zombie_Bite",
+    "loop": false,
+    "lengthS": 2
+   },
+   {
+    "name": "A_Zombie_Death",
+    "loop": false,
+    "lengthS": 2
+   },
+   {
+    "name": "A_Zombie_FeedGetUp",
+    "loop": false,
+    "lengthS": 2.5
+   },
+   {
+    "name": "A_Zombie_FeedLoop",
+    "loop": true,
+    "lengthS": 4
+   },
+   {
+    "name": "A_Zombie_GetUp",
+    "loop": false,
+    "lengthS": 2.6
+   },
+   {
+    "name": "A_Zombie_HitReact",
+    "loop": false,
+    "lengthS": 0.6
+   },
+   {
+    "name": "A_Zombie_HitReactHead",
+    "loop": false,
+    "lengthS": 0.6
+   },
+   {
+    "name": "A_Zombie_Idle",
+    "loop": true,
+    "lengthS": 4
+   },
+   {
+    "name": "A_Zombie_Idle2",
+    "loop": true,
+    "lengthS": 4
+   },
+   {
+    "name": "A_Zombie_Knockdown",
+    "loop": false,
+    "lengthS": 1.4
+   },
+   {
+    "name": "A_Zombie_Walk",
+    "loop": true,
+    "lengthS": 1.1,
+    "speedMps": 0.804
+   },
+   {
+    "name": "A_Zombie_Walk2",
+    "loop": true,
+    "lengthS": 0.9,
+    "speedMps": 1.104
+   },
+   {
+    "name": "A_Zombie_Walk3",
+    "loop": true,
+    "lengthS": 1.4,
+    "speedMps": 0.642
+   }
+  ]
+ },
+ "SM_MuzzleFlash": {
+  "group": "items",
+  "kind": "static",
+  "file": "meshes/SM_MuzzleFlash.glb",
+  "triangles": 8,
+  "collision": "none",
+  "sizeM": [
+   0.25,
+   0.11,
+   0.11
+  ]
+ },
+ "SM_Casing": {
+  "group": "items",
+  "kind": "static",
+  "file": "meshes/SM_Casing.glb",
+  "triangles": 2960,
+  "collision": "box",
+  "sizeM": [
+   0.0099,
+   0.0099,
+   0.0192
+  ]
+ },
+ "SM_BloodDroplet": {
+  "group": "items",
+  "kind": "static",
+  "file": "meshes/SM_BloodDroplet.glb",
+  "triangles": 720,
+  "collision": "none",
+  "sizeM": [
+   0.0181,
+   0.014,
+   0.0128
+  ]
+ },
+ "SM_Pickup_HandgunAmmo": {
+  "group": "items",
+  "kind": "static",
+  "file": "meshes/SM_Pickup_HandgunAmmo.glb",
+  "triangles": 4538,
+  "collision": "box",
+  "sizeM": [
+   0.1538,
+   0.0813,
+   0.1059
+  ]
+ },
+ "SM_Pickup_GreenHerb": {
+  "group": "items",
+  "kind": "static",
+  "file": "meshes/SM_Pickup_GreenHerb.glb",
+  "triangles": 6858,
+  "collision": "box",
+  "sizeM": [
+   0.1841,
+   0.2171,
+   0.2748
+  ]
+ },
+ "SM_Pickup_FirstAidSpray": {
+  "group": "items",
+  "kind": "static",
+  "file": "meshes/SM_Pickup_FirstAidSpray.glb",
+  "triangles": 4724,
+  "collision": "box",
+  "sizeM": [
+   0.065,
+   0.065,
+   0.214
+  ]
+ },
+ "SM_Pickup_BrassKey": {
+  "group": "items",
+  "kind": "static",
+  "file": "meshes/SM_Pickup_BrassKey.glb",
+  "triangles": 2472,
+  "collision": "box",
+  "sizeM": [
+   0.1394,
+   0.0456,
+   0.0129
+  ]
+ },
+ "SM_Pickup_InkRibbon": {
+  "group": "items",
+  "kind": "static",
+  "file": "meshes/SM_Pickup_InkRibbon.glb",
+  "triangles": 3052,
+  "collision": "box",
+  "sizeM": [
+   0.0796,
+   0.0942,
+   0.0627
+  ]
+ },
+ "SM_Note": {
+  "group": "items",
+  "kind": "static",
+  "file": "meshes/SM_Note.glb",
+  "triangles": 1432,
+  "collision": "none",
+  "sizeM": [
+   0.2101,
+   0.2751,
+   0.014
+  ]
+ },
+ "SM_Typewriter": {
+  "group": "items",
+  "kind": "static",
+  "file": "meshes/SM_Typewriter.glb",
+  "triangles": 11186,
+  "collision": "box",
+  "sizeM": [
+   0.5146,
+   0.2765,
+   0.2625
+  ]
+ },
+ "SM_FP_Handgun": {
+  "group": "items",
+  "kind": "static",
+  "file": "meshes/SM_FP_Handgun.glb",
+  "triangles": 27083,
+  "collision": "none",
+  "sizeM": [
+   0.6254,
+   0.4289,
+   0.4243
+  ]
+ },
+ "SM_FP_HandgunSlide": {
+  "group": "items",
+  "kind": "static",
+  "file": "meshes/SM_FP_HandgunSlide.glb",
+  "triangles": 9036,
+  "collision": "none",
+  "sizeM": [
+   0.1858,
+   0.0334,
+   0.0362
+  ]
+ }
+}
